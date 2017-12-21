@@ -1,1 +1,2 @@
-# mindmanagersite.github.io
+# mindmanagersite
+МайндМенеджер Лучшая программа!
